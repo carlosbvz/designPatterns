@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    padding: 20px;
+    
+}
+.module1 {
+    width: 200px;
+    height: 50px;
+    border: 1px solid #ccc; 
+    text-align: center;
+}
+.module1 img {
+    width: 200px;
+}
+.module1 button {
+    
+}
+.module2 {
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 16px;
+}
+.module3 {
+    position: absolute;
+    top: 45%;
+    right: 45%;
+}
